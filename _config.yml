@@ -3,8 +3,8 @@ title: TCDL
 header-img: img/home-bg.jpg
 description: "Tecnicas de Construcción de Lenguajes"
 baseurl: ""
-url: "http://tcdl-utn.github.io/"
-github_username: "tcdl-utn"
+url: "http://tcdl-univ.github.io/"
+github_username: "tcdl-univ"
 
 # Build settings
 markdown: kramdown
